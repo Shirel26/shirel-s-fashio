@@ -1,0 +1,22 @@
+.quote {
+  padding: 100px 0;
+  background: #2a1a1a;
+  text-align: center;
+}
+
+.quote blockquote {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 2rem;
+  font-style: italic;
+  color: white;
+  max-width: 700px;
+  margin: 0 auto 20px;
+  line-height: 1.5;
+}
+
+.quote cite {
+  color: #c9a87c;
+  font-size: 0.85rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
