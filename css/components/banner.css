@@ -1,0 +1,36 @@
+.banner {
+  background-image:
+    linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.3)),
+    url('../../images/background.jpg');
+  background-size: cover;
+  background-position: center top;
+  padding: 220px 0 160px;
+  text-align: center;
+}
+
+.banner-label {
+  font-size: 0.75rem;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: #f0c4d4;
+  margin-bottom: 20px;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 80px;
+  font-style: italic;
+  letter-spacing: 4px;
+  margin-bottom: 16px;
+  line-height: 1;
+}
+
+.banner h2 {
+  color: white;
+  font-size: 1.1rem;
+  font-weight: 300;
+  opacity: 0.85;
+  margin-bottom: 48px;
+  letter-spacing: 0.1em;
+  font-family: 'Jost', sans-serif;
+}
